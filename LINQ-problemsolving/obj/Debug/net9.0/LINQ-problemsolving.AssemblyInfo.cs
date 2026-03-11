@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ-problemsolving")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f709f6ecfac037ef0e9807f7af46584e1e1c5618")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ-problemsolving")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ-problemsolving")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

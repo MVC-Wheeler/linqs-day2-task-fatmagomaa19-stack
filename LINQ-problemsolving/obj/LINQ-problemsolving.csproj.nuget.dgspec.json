@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatma.gomea\\source\\repos\\LINQ-problemsolving\\LINQ-problemsolving.csproj": {}
+    "C:\\Users\\fatma.gomea\\source\\repos\\linqs-day2-task-fatmagomaa19-stack\\LINQ-problemsolving\\LINQ-problemsolving.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatma.gomea\\source\\repos\\LINQ-problemsolving\\LINQ-problemsolving.csproj": {
+    "C:\\Users\\fatma.gomea\\source\\repos\\linqs-day2-task-fatmagomaa19-stack\\LINQ-problemsolving\\LINQ-problemsolving.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatma.gomea\\source\\repos\\LINQ-problemsolving\\LINQ-problemsolving.csproj",
+        "projectUniqueName": "C:\\Users\\fatma.gomea\\source\\repos\\linqs-day2-task-fatmagomaa19-stack\\LINQ-problemsolving\\LINQ-problemsolving.csproj",
         "projectName": "LINQ-problemsolving",
-        "projectPath": "C:\\Users\\fatma.gomea\\source\\repos\\LINQ-problemsolving\\LINQ-problemsolving.csproj",
+        "projectPath": "C:\\Users\\fatma.gomea\\source\\repos\\linqs-day2-task-fatmagomaa19-stack\\LINQ-problemsolving\\LINQ-problemsolving.csproj",
         "packagesPath": "C:\\Users\\fatma.gomea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatma.gomea\\source\\repos\\LINQ-problemsolving\\obj\\",
+        "outputPath": "C:\\Users\\fatma.gomea\\source\\repos\\linqs-day2-task-fatmagomaa19-stack\\LINQ-problemsolving\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
